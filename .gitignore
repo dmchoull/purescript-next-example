@@ -8,3 +8,6 @@
 /.purs*
 /.psa*
 /.next/
+/out/
+/cypress/videos
+/cypress/screenshots
